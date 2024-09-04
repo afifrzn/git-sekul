@@ -1,0 +1,1 @@
+Awal dari git ada di file ini, setelah melakukan perubahan silahkan melakukan push
